@@ -1,0 +1,31 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+h3{
+    padding: 15px;
+}
+
+#three{
+   color: black;
+   background-color: pink;
+   text-align: center;
+   border-style: solid;
+   border-color:black;
+   border-width: 5px;
+   width: 600px;
+   height: 350px;
+   margin-top: 125px;
+   margin-left:  400px;
+}
+.one{
+    margin-top: 30px;
+    margin-left: 140px;
+}
+.two{
+    width: 40px;
+    height: 40px;
+    margin-bottom: 190px;
+    margin-left: 400px;
+}
